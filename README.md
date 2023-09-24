@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @HHH292
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#COMMAND
 
-<!---
-HHH292/HHH292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pip install requests
+
+pip install rich 
+
+pip install bs4
+
+pkg install git
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+git clone https://github.com/HHH292/HHH292
+
+cd HHH292
+
+python XD.py
+
